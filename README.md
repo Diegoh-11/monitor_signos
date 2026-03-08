@@ -70,7 +70,6 @@ ejercicio-funciones/
 │   ├── css/
 │   │   └── styles.css
 │   ├── html/
-│   │   └── servicios.html
 │   └── js/
 │       ├── ejercicio2.js
 │       └── ejercicio3.js
